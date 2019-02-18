@@ -1,0 +1,60 @@
+body{
+	background: #d6f8f4
+
+}
+.header {
+	width: 350px;
+	position: relative;
+	left: 500px;
+}
+
+h3, h1{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.kontak_login{
+	width: 350px;
+	background: white;
+	margin :60px auto;
+	padding: 30px 20px;
+}		
+label{
+	font-size: 10pt;
+}		
+
+.form_login{
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px
+}
+tr{
+	background-color: white;
+	align-content: center;
+	border-style:ridge;
+}
+.tabel1{
+	background: blue;
+}
+
+table, th, td {
+	border-collapse:collapse;
+	border:1px solid #999;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+}
+input, textarea { 
+    background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), to(#EEEEEE)); 
+    background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 25px); 
+    }
